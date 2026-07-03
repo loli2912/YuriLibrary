@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+
+# Local data (regenerate with: python -m backend.sync)
+backend/data/catalog.json

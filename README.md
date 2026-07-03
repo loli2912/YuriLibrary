@@ -2,7 +2,7 @@
 
 A dedicated personal library web app for storing a yuri title with the data from MangaDex
 
-
+Link public hostsite: https://yurilibrary.onrender.com/
 ## What the website does
 
 - **Browse the catalog** as a grid of cover art, one card per title.
